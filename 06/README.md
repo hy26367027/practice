@@ -1,5 +1,14 @@
-Gitリボジトリの作成
-.リボジトリreadmemdの修正
-Gitがむつかしいになれない
+新しいREADME
+これから 05　授業です。
 
-on branch master
+新しい行です
+ABC 
+99999
+1234567
+ｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘ
+3333333333333333333333333333333
+
+mgmgmgmgmgmgmgmgmmggmgmgmgmgmgmg
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+-----------------------------------------------
+
